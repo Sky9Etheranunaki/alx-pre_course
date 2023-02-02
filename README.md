@@ -1,1 +1,2 @@
-My first readme
+My first readme 
+This thing Dey show me shege 
